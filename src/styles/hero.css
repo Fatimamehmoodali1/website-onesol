@@ -39,15 +39,15 @@
 }
 
 .hero-left p {
-  margin-top: 10px;
-  font-size: 18px;
+  margin-top: -0%;
+  font-size: 16px;
   line-height: 1.6;
 }
 
 .hero-btn {
   font-size: 18px;
   margin-top: 0%;
-  padding: 16px 30px;
+  padding: 14px 30px;
   background-color: #fd8f08;
   border: none;
   border-radius: 8px;
