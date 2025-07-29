@@ -8,7 +8,7 @@ const Hero = () => {
     <section className="hero">
       {/* Decorative left triangle & circle */}
       <div className="hero-left-shapes">
-        <Image src="/images/Polygon-4.png" alt="Small Triangle" width={20} height={20} className="left-triangle" />
+        <Image src="/images/polygon-4.png" alt="Small Triangle" width={20} height={20} className="left-triangle" />
         <Image src="/images/Ellipse-9.png" alt="Small Circle" width={12} height={12} className="left-circle" />
       </div>
 
